@@ -3,9 +3,12 @@
 - create-react-app.
 - configured tailwind css. 
 - Header
+- routing of app
 - signin form
 - signup form
-- 
+- form validation
+- useRef
+
 
 # features
 
