@@ -2,7 +2,10 @@
 
 - create-react-app.
 - configured tailwind css. 
-
+- Header
+- signin form
+- signup form
+- 
 
 # features
 
