@@ -7,7 +7,11 @@
 - signin form
 - signup form
 - form validation
-- useRef
+- useRef Hook
+- firebase setup
+- deployed app to production
+- create signup user account
+
 
 
 # features
