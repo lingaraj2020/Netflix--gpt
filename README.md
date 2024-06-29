@@ -15,6 +15,18 @@
 - created redux store with userSlice
 - implimented signout
 - update profile
+- bugfix: signup user dispaly profile picture update
+- bugfix: if user login then only access browse page otherwise not
+- add hard coded files to constant files
+- registered tmbd api and get access token
+- fetch a data api from tmdb
+- created movieSlice
+- custom hooks for now playing movies data
+- update store with movie data
+- planned to create browse page
+- fetched data for trailer videp and update to store
+- embedded the youtube video autoplay background
+
 
 
 # features
