@@ -11,7 +11,6 @@ import { useDispatch } from "react-redux";
 import { addUser } from "../utils/userSlice";
 import {
   NETFLIX_BACKGROUND,
-  NETFLIX_LOGO,
   USER_LOGO,
 } from "../utils/constants";
 

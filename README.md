@@ -26,7 +26,13 @@
 - planned to create browse page
 - fetched data for trailer videp and update to store
 - embedded the youtube video autoplay background
-
+- build secondary components
+- build movies list and movie card
+- created custom hooks for fetching different topics
+- gpt search page
+- created gpt search bar
+- multi-lang feature for gpt search page
+- 
 
 
 # features
