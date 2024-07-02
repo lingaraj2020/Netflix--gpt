@@ -90,17 +90,17 @@ const Login = () => {
       <Header />
       <div className="absolute">
         <img
-          className="bg-gradient-to-b from-black"
+          className="h-[100%] md:w-full bg-gradient-to-b from-black "
           src={NETFLIX_BACKGROUND}
           alt="bg-photo"
         />
       </div>
       <form
         onSubmit={(e) => e.preventDefault()}
-        className="w-3/12 absolute p-12 bg-black my-36 mx-auto right-0 left-0 text-white bg-opacity-80 rounded-md"
+        className="w-full md:w-3/12 absolute p-12 bg-black my-36 mx-auto right-0 left-0 text-white bg-opacity-80 rounded-md"
       >
         <div>
-          <h1 className="font-bold text-3xl py-4">
+          <h1 className="text-xl md:text-3xl  font-bold py-4">
             {isSignInForm ? "Sign In" : "Sign Up"}
           </h1>
         </div>

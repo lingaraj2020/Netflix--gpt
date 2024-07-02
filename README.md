@@ -32,7 +32,11 @@
 - gpt search page
 - created gpt search bar
 - multi-lang feature for gpt search page
-- 
+- tried gpt search api but expired my api limit so not applied currently
+- created gpt slice added searched movie data
+- Memoization
+- added .env file to secure some keys
+- and finally added responsive for all devices
 
 
 # features
